@@ -233,7 +233,7 @@ p {
     display: flex;
 }
 
-#contact .map,
+#contact #map,
 #contact .contact-form {
     flex: 1;
 }
